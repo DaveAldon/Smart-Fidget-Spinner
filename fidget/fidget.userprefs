@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BCADEA10-6D28-4712-AF61-93F4E278892A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="fidget/Main.storyboard">
+    <Files>
+      <File FileName="fidget/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="fidget/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
